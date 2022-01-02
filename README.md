@@ -33,6 +33,11 @@ Copy and paste [this link](https://t.me/addtheme/FcfzJFZbrslWPFnH) to apply this
 
 Copy and paste [this link](https://t.me/addtheme/L7Ib4C0kE5Z0nmqY) to apply this theme to your telegram: https://t.me/addtheme/L7Ib4C0kE5Z0nmqY
 
+## Star atlas game
+![image](https://user-images.githubusercontent.com/71613402/147890795-5344c14f-f414-4b55-8267-07ca01d0558a.png)
+
+Copy and paste [this link](https://t.me/addtheme/h0qvRPliUORSv0WG) to apply this theme to your telegram: https://t.me/addtheme/h0qvRPliUORSv0WG
+
 ## Virtual Reality
 ![image](https://user-images.githubusercontent.com/71613402/147879200-9185e389-6961-4a50-ad94-065fde616925.png)
 
