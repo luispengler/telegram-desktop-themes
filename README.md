@@ -8,6 +8,11 @@ These themes were generated using [telegram-palette-gen](https://github.com/agni
 
 Copy and paste this link to apply this theme to your telegram: https://t.me/addtheme/pNBeYhfNgBvi80nl
 
+## Simple Saturn
+![image](https://github.com/luispengler/telegram-themes/blob/main/screenshots/1641132967.png?raw=true)
+
+Copy and paste this link to apply this theme to your telegram: https://t.me/addtheme/xmkKIj6pjiFJju7K
+
 ## Spider main theme
 ![image](https://github.com/luispengler/telegram-themes/blob/main/screenshots/1641131931.png?raw=true)
 
