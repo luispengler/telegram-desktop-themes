@@ -1,5 +1,5 @@
 # My telegram themes
-A collection of my own telegram themes available for public usage!
+A collection of my own telegram themes!
 
 These themes were generated using [telegram-palette-gen](https://github.com/agnipau/telegram-palette-gen)
 
