@@ -37,3 +37,8 @@ Copy and paste [this link](https://t.me/addtheme/L7Ib4C0kE5Z0nmqY) to apply this
 ![image](https://user-images.githubusercontent.com/71613402/147879200-9185e389-6961-4a50-ad94-065fde616925.png)
 
 Copy and paste [this link](https://t.me/addtheme/m1jjJXpuV0hjKrqo) to apply this theme to your telegram: https://t.me/addtheme/m1jjJXpuV0hjKrqo
+
+## Your name 1
+![image](https://user-images.githubusercontent.com/71613402/147890659-c6522b4c-99ef-4896-9b24-78a7ce5a51d9.png)
+
+Copy and paste [this link](https://t.me/addtheme/p7Chaq7LnarHLNQS) to apply this theme to your telegram: https://t.me/addtheme/p7Chaq7LnarHLNQS
