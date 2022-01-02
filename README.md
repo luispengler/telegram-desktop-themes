@@ -18,6 +18,11 @@ Copy and paste this link to apply this theme to your telegram: https://t.me/addt
 
 Copy and paste this link to apply this theme to your telegram: https://t.me/addtheme/xmkKIj6pjiFJju7K
 
+## Space ship art
+![image](https://user-images.githubusercontent.com/71613402/147879421-64cd3cab-be9c-437a-9872-3b782387a67a.png)
+
+Copy and paste this link to apply this theme to your telegram: https://t.me/addtheme/FcfzJFZbrslWPFnH
+
 ## Spider main theme
 ![image](https://user-images.githubusercontent.com/71613402/147879189-87185f1e-07ed-4322-8197-da21f1bfc625.png)
 
