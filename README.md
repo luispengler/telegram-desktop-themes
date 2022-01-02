@@ -6,3 +6,8 @@ A collection of my own telegram themes available for public usage!
 ![image](https://github.com/luispengler/telegram-themes/blob/main/screenshots/1641131095.png?raw=true)
 
 Copy and paste this link to apply this theme to your telegram: https://t.me/addtheme/pNBeYhfNgBvi80nl
+
+## Virtual Reality
+![image](https://github.com/luispengler/telegram-themes/blob/main/screenshots/1641131536.png?raw=true)
+
+Copy and paste this link to apply this theme to your telegram: https://t.me/addtheme/m1jjJXpuV0hjKrqo
