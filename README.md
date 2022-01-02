@@ -11,7 +11,7 @@ Copy and paste this link to apply this theme to your telegram: https://t.me/addt
 ## Gears keep movin'
 ![image](https://github.com/luispengler/telegram-themes/blob/main/screenshots/1641133356.png?raw=true)
 
-Copy and paste this link to apply this theme to your telegram: https://t.me/addtheme/4SMnLHOB82zvngFl
+Copy and paste this link to apply this theme to your telegram: https://t.me/addtheme/FsLlCXCzWzO2NMJh
 
 ## Simple Saturn
 ![image](https://github.com/luispengler/telegram-themes/blob/main/screenshots/1641132967.png?raw=true)
