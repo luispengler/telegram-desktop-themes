@@ -13,6 +13,11 @@ Copy and paste [this link](https://t.me/addtheme/pNBeYhfNgBvi80nl) to apply this
 
 Copy and paste [this link](https://t.me/addtheme/FsLlCXCzWzO2NMJh) to apply this theme to your telegram: https://t.me/addtheme/FsLlCXCzWzO2NMJh
 
+## Harry Potter 1
+![image](https://user-images.githubusercontent.com/71613402/147886074-eb2451fd-6b16-47b2-863f-57127c65f30c.png)
+
+Copy and paste [this link](https://t.me/addtheme/VaJX1eneJZcFykI6) to apply this theme to your telegram: https://t.me/addtheme/VaJX1eneJZcFykI6
+
 ## Simple Saturn
 ![image](https://user-images.githubusercontent.com/71613402/147879176-44370e96-2ee6-4386-aa6b-16b8a387100a.png)
 
