@@ -1,6 +1,9 @@
 # My telegram themes
 A collection of my own telegram themes!
 
+# Go through themes alphabetically
+[a](#abstract-cabum)/[b](#b)/[c](#c)/[d](#d)/[e](#e)/[f](#f)/[g](#gears-keep-movin)/[h](#harry-potter-1)/[i](#i)/[j](#j)/[k](#k)/[l](#l)/[m](#m)/[n](#n)/[o](#0)/[p](#p)/[q](#q)/[r](#r)/[s](#space-ship-art)/[t](#t)/[u](#u)/[v](#virtual-reality)/[w](#w)/[x](#x)/[y](#your-name-1)/[z](#z)
+
 These themes were generated using [telegram-palette-gen](https://github.com/agnipau/telegram-palette-gen)
 
 ## Abstract Cabum!
