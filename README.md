@@ -33,6 +33,11 @@ Copy and paste [this link](https://t.me/addtheme/FcfzJFZbrslWPFnH) to apply this
 
 Copy and paste [this link](https://t.me/addtheme/L7Ib4C0kE5Z0nmqY) to apply this theme to your telegram: https://t.me/addtheme/L7Ib4C0kE5Z0nmqY
 
+## Star atlas craziness
+![image](https://user-images.githubusercontent.com/71613402/147941767-30651568-4936-47a7-9c95-6e0d01ded2d6.png)
+
+Copy and paste [this link](https://t.me/addtheme/mvBlrPOD0eJ702UF) to apply this theme to your telegram: https://t.me/addtheme/mvBlrPOD0eJ702UF
+
 ## Star atlas game
 ![image](https://user-images.githubusercontent.com/71613402/147890795-5344c14f-f414-4b55-8267-07ca01d0558a.png)
 
