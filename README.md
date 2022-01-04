@@ -4,7 +4,7 @@ A collection of my own telegram themes!
 These themes were generated using [telegram-palette-gen](https://github.com/agnipau/telegram-palette-gen)
 
 # Navigate alphabetically
-**[a](#abstract-cabum)/[b](#b)/[c](#canon-lens)/[d](#d)/[e](#e)/[f](#f)/[g](#gears-keep-movin)/[h](#harry-potter-1)/[i](#i)/[j](#j)/[k](#k)/[l](#l)/[m](#m)/[n](#n)/[o](#0)/[p](#p)/[q](#q)/[r](#r)/[s](#space-ship-art)/[t](#t)/[u](#u)/[v](#virtual-reality)/[w](#w)/[x](#x)/[y](#yellow-forest)/[z](#z)**
+**[a](#abstract-cabum)/[b](#b)/[c](#canon-lens)/[d](#d)/[e](#e)/[f](#f)/[g](#gears-keep-movin)/[h](#harry-potter-1)/[i](#i)/[j](#j)/[k](#k)/[l](#l)/[m](#m)/[n](#n)/[o](#0)/[p](#p)/[q](#q)/[r](#r)/[s](#space-ship-art)/[t](#the-last-of-ellie)/[u](#u)/[v](#virtual-reality)/[w](#w)/[x](#x)/[y](#yellow-forest)/[z](#z)**
 
 ## Abstract Cabum!
 ![image](https://user-images.githubusercontent.com/71613402/147879103-0de64fcb-58ad-402c-a6d2-5225b0f0daa5.png)
