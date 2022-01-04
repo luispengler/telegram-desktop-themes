@@ -3,6 +3,8 @@ A collection of my own telegram themes for desktop telegram!
 
 These themes were generated using [telegram-palette-gen](https://github.com/agnipau/telegram-palette-gen)
 
+The only difference between normal version and blured version is that in the blured one the wallpaper has a blur effect.
+
 # Navigate alphabetically
 **[a](#abstract-cabum)/[b](#b)/[c](#canon-lens)/[d](#d)/[e](#e)/[f](#f)/[g](#gears-keep-movin)/[h](#harry-potter-1)/[i](#i)/[j](#j)/[k](#k)/[l](#l)/[m](#m)/[n](#n)/[o](#0)/[p](#p)/[q](#q)/[r](#r)/[s](#space-ship-art)/[t](#the-last-of-ellie)/[u](#u)/[v](#virtual-reality)/[w](#w)/[x](#x)/[y](#yellow-forest)/[z](#z)**
 
