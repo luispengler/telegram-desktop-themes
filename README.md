@@ -4,12 +4,17 @@ A collection of my own telegram themes!
 These themes were generated using [telegram-palette-gen](https://github.com/agnipau/telegram-palette-gen)
 
 # Navigate alphabetically
-**[a](#abstract-cabum)/[b](#b)/[c](#c)/[d](#d)/[e](#e)/[f](#f)/[g](#gears-keep-movin)/[h](#harry-potter-1)/[i](#i)/[j](#j)/[k](#k)/[l](#l)/[m](#m)/[n](#n)/[o](#0)/[p](#p)/[q](#q)/[r](#r)/[s](#space-ship-art)/[t](#t)/[u](#u)/[v](#virtual-reality)/[w](#w)/[x](#x)/[y](#your-name-1)/[z](#z)**
+**[a](#abstract-cabum)/[b](#b)/[c](#canon-lens)/[d](#d)/[e](#e)/[f](#f)/[g](#gears-keep-movin)/[h](#harry-potter-1)/[i](#i)/[j](#j)/[k](#k)/[l](#l)/[m](#m)/[n](#n)/[o](#0)/[p](#p)/[q](#q)/[r](#r)/[s](#space-ship-art)/[t](#t)/[u](#u)/[v](#virtual-reality)/[w](#w)/[x](#x)/[y](#your-name-1)/[z](#z)**
 
 ## Abstract Cabum!
 ![image](https://user-images.githubusercontent.com/71613402/147879103-0de64fcb-58ad-402c-a6d2-5225b0f0daa5.png)
 
 Copy and paste [this link](https://t.me/addtheme/pNBeYhfNgBvi80nl) to apply this theme to your telegram: https://t.me/addtheme/pNBeYhfNgBvi80nl
+
+## Canon Lens
+![image](https://user-images.githubusercontent.com/71613402/148066037-4e85726b-3b20-4011-8cca-2a8a67bf2ffc.png)
+
+Copy and paste [this link](https://t.me/addtheme/Pe6hGaC2zBA3YPE7) to apply this theme to your telegram: https://t.me/addtheme/Pe6hGaC2zBA3YPE7
 
 ## Gears keep movin'
 ![image](https://user-images.githubusercontent.com/71613402/147879130-6930ce57-9868-49e9-9b05-b6965841cb34.png)
