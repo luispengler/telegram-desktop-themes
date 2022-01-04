@@ -51,6 +51,11 @@ Copy and paste [this link](https://t.me/addtheme/mvBlrPOD0eJ702UF) to apply this
 
 Copy and paste [this link](https://t.me/addtheme/h0qvRPliUORSv0WG) to apply this theme to your telegram: https://t.me/addtheme/h0qvRPliUORSv0WG
 
+## The last of Ellie
+![image](https://user-images.githubusercontent.com/71613402/148076464-626900e6-e8b5-4b5f-82a3-05885af8a895.png)
+
+Copy and paste [this link](https://t.me/addtheme/uYjIuDJecOlbD7Gt) to apply this theme to your telegram: https://t.me/addtheme/uYjIuDJecOlbD7Gt
+
 ## Virtual Reality
 ![image](https://user-images.githubusercontent.com/71613402/147879200-9185e389-6961-4a50-ad94-065fde616925.png)
 
