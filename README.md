@@ -21,6 +21,16 @@ Copy and paste [this link](https://t.me/addtheme/Pe6hGaC2zBA3YPE7) to apply this
 
 Copy and paste [this link](https://t.me/addtheme/FsLlCXCzWzO2NMJh) to apply this theme to your telegram: https://t.me/addtheme/FsLlCXCzWzO2NMJh
 
+## Genshin Impact Yae Miko
+### Normal Version
+![image](https://user-images.githubusercontent.com/71613402/148108989-9173d80b-7298-48ef-b6bf-b3f6180f0ff8.png)
+
+Copy and paste [this link](https://t.me/addtheme/HbAqmOzWUSGZ0fNV) to apply this theme to your telegram: https://t.me/addtheme/HbAqmOzWUSGZ0fNV
+### Blured Version
+![image](https://user-images.githubusercontent.com/71613402/148109309-f9cb2cd7-8452-42d7-8e54-69780bbdfdd5.png)
+
+Copy and paste [this link](https://t.me/addtheme/tfWiqpJ0DxTExDKB) to apply this theme to your telegram: https://t.me/addtheme/tfWiqpJ0DxTExDKB
+
 ## Harry Potter 1
 ![image](https://user-images.githubusercontent.com/71613402/147886074-eb2451fd-6b16-47b2-863f-57127c65f30c.png)
 
