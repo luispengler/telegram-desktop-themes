@@ -40,10 +40,14 @@ Copy and paste [this link](https://t.me/addtheme/VaJX1eneJZcFykI6) to apply this
 
 ## Majestic Spot
 ### Normal Version
+![image](https://user-images.githubusercontent.com/71613402/148233265-9f1b1ae2-e333-4c0d-a271-6520cbbfc426.png)
 
-Copy and paste [this link](https://t.me/addtheme/GNhxRArHYajOjrEc) to apply this theme to your telegram: https://t.me/addtheme/GNhxRArHYajOjrEc
+Copy and paste [this link](https://t.me/addtheme/CWuPV15rD4AAyPAu) to apply this theme to your telegram: https://t.me/addtheme/CWuPV15rD4AAyPAu
+
 ### Blured Version
-![image](https://user-images.githubusercontent.com/71613402/148109309-f9cb2cd7-8452-42d7-8e54-69780bbdfdd5.png)
+![image](https://user-images.githubusercontent.com/71613402/148233336-f2ab86e6-48f3-407d-a743-fabb1d0c405c.png)
+
+Copy and paste [this link](https://t.me/addtheme/LRO0RjFJTwrEaJb7) to apply this theme to your telegram: https://t.me/addtheme/LRO0RjFJTwrEaJb7
 
 ## Simple Saturn
 ![image](https://user-images.githubusercontent.com/71613402/147879176-44370e96-2ee6-4386-aa6b-16b8a387100a.png)
