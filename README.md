@@ -38,6 +38,13 @@ Copy and paste [this link](https://t.me/addtheme/tfWiqpJ0DxTExDKB) to apply this
 
 Copy and paste [this link](https://t.me/addtheme/VaJX1eneJZcFykI6) to apply this theme to your telegram: https://t.me/addtheme/VaJX1eneJZcFykI6
 
+## Majestic Spot
+### Normal Version
+
+Copy and paste [this link](https://t.me/addtheme/GNhxRArHYajOjrEc) to apply this theme to your telegram: https://t.me/addtheme/GNhxRArHYajOjrEc
+### Blured Version
+![image](https://user-images.githubusercontent.com/71613402/148109309-f9cb2cd7-8452-42d7-8e54-69780bbdfdd5.png)
+
 ## Simple Saturn
 ![image](https://user-images.githubusercontent.com/71613402/147879176-44370e96-2ee6-4386-aa6b-16b8a387100a.png)
 
