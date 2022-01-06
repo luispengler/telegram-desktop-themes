@@ -9,6 +9,12 @@ The only difference between normal version and blured version is that in the blu
 **[a](#abstract-cabum)/[b](#b)/[c](#canon-lens)/[d](#d)/[e](#e)/[f](#f)/[g](#gears-keep-movin)/[h](#harry-potter-1)/[i](#i)/[j](#j)/[k](#k)/[l](#l)/[m](#majestic-spot)/[n](#n)/[o](#0)/[p](#p)/[q](#q)/[r](#r)/[s](#space-ship-art)/[t](#the-last-of-ellie)/[u](#u)/[v](#virtual-reality)/[w](#w)/[x](#x)/[y](#yellow-forest)/[z](#z)**
 
 ## Abstract Cabum!
+### Normal Version
+![image](https://user-images.githubusercontent.com/71613402/148379923-515c9940-4263-409c-8581-f8682c633a59.png)
+
+Copy and paste [this link](https://t.me/addtheme/r6HDv5MEEXlO2hON) to apply this theme to your telegram: https://t.me/addtheme/r6HDv5MEEXlO2hON
+
+### Blured Version
 ![image](https://user-images.githubusercontent.com/71613402/147879103-0de64fcb-58ad-402c-a6d2-5225b0f0daa5.png)
 
 Copy and paste [this link](https://t.me/addtheme/pNBeYhfNgBvi80nl) to apply this theme to your telegram: https://t.me/addtheme/pNBeYhfNgBvi80nl
