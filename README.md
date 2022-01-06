@@ -19,6 +19,12 @@ Copy and paste [this link](https://t.me/addtheme/pNBeYhfNgBvi80nl) to apply this
 Copy and paste [this link](https://t.me/addtheme/Pe6hGaC2zBA3YPE7) to apply this theme to your telegram: https://t.me/addtheme/Pe6hGaC2zBA3YPE7
 
 ## Gears keep movin'
+### Normal Version
+![image](https://user-images.githubusercontent.com/71613402/148378765-08899cd8-258d-47ee-9250-ae522d45eac5.png)
+
+Copy and paste [this link](https://t.me/addtheme/y4qBtRJEGCZCBCVI) to apply this theme to your telegram: https://t.me/addtheme/y4qBtRJEGCZCBCVI
+
+### Blured Version
 ![image](https://user-images.githubusercontent.com/71613402/147879130-6930ce57-9868-49e9-9b05-b6965841cb34.png)
 
 Copy and paste [this link](https://t.me/addtheme/FsLlCXCzWzO2NMJh) to apply this theme to your telegram: https://t.me/addtheme/FsLlCXCzWzO2NMJh
