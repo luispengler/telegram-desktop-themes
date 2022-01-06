@@ -30,6 +30,16 @@ Copy and paste [this link](https://t.me/addtheme/fdTOwJHr3VUqMCEF) to apply this
 
 Copy and paste [this link](https://t.me/addtheme/Pe6hGaC2zBA3YPE7) to apply this theme to your telegram: https://t.me/addtheme/Pe6hGaC2zBA3YPE7
 
+## Cyberpunk 2077 road
+### Normal Version
+![image](https://user-images.githubusercontent.com/71613402/148387160-53e1906a-ccf7-4680-b26a-bff010e775a0.png)
+
+Copy and paste [this link](https://t.me/addtheme/XajySuay8z2jSlUB) to apply this theme to your telegram: https://t.me/addtheme/XajySuay8z2jSlUB
+### Blured Version
+![image](https://user-images.githubusercontent.com/71613402/148387352-870e26f9-088b-4c2a-89c6-0766a7d5757b.png)
+
+Copy and paste [this link](https://t.me/addtheme/AuuQvFbMFOyHIklE) to apply this theme to your telegram: https://t.me/addtheme/AuuQvFbMFOyHIklE
+
 ## Gears keep movin'
 ### Normal Version
 ![image](https://user-images.githubusercontent.com/71613402/148378765-08899cd8-258d-47ee-9250-ae522d45eac5.png)
