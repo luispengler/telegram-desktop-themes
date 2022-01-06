@@ -79,26 +79,56 @@ Copy and paste [this link](https://t.me/addtheme/LRO0RjFJTwrEaJb7) to apply this
 Copy and paste [this link](https://t.me/addtheme/xmkKIj6pjiFJju7K) to apply this theme to your telegram: https://t.me/addtheme/xmkKIj6pjiFJju7K
 
 ## Space ship art
+### Normal Version
+![image](https://user-images.githubusercontent.com/71613402/148384596-a85e64e2-d9bc-451f-8aae-d0b769d1efaa.png)
+
+Copy and paste [this link](https://t.me/addtheme/Brhi4pUw1Id2FVJS) to apply this theme to your telegram: https://t.me/addtheme/Brhi4pUw1Id2FVJS
+
+### Blured Version
 ![image](https://user-images.githubusercontent.com/71613402/147879421-64cd3cab-be9c-437a-9872-3b782387a67a.png)
 
 Copy and paste [this link](https://t.me/addtheme/FcfzJFZbrslWPFnH) to apply this theme to your telegram: https://t.me/addtheme/FcfzJFZbrslWPFnH
 
 ## Spider main theme
+### Normal Version
+![image](https://user-images.githubusercontent.com/71613402/148384856-cd707add-7397-4ca0-83ad-7e3fbef38d08.png)
+
+Copy and paste [this link](https://t.me/addtheme/CAnElsu44Bcof9sh) to apply this theme to your telegram: https://t.me/addtheme/CAnElsu44Bcof9sh
+
+### Blured Version
 ![image](https://user-images.githubusercontent.com/71613402/147879189-87185f1e-07ed-4322-8197-da21f1bfc625.png)
 
 Copy and paste [this link](https://t.me/addtheme/L7Ib4C0kE5Z0nmqY) to apply this theme to your telegram: https://t.me/addtheme/L7Ib4C0kE5Z0nmqY
 
 ## Star atlas craziness
+### Normal Version
+![image](https://user-images.githubusercontent.com/71613402/148385145-6ebab3c8-c530-48f7-be26-2930d7a19d31.png)
+
+Copy and paste [this link](https://t.me/addtheme/Ht1ibAnXFxd3fyq3) to apply this theme to your telegram: https://t.me/addtheme/Ht1ibAnXFxd3fyq3
+
+### Blured Version
 ![image](https://user-images.githubusercontent.com/71613402/147941767-30651568-4936-47a7-9c95-6e0d01ded2d6.png)
 
 Copy and paste [this link](https://t.me/addtheme/mvBlrPOD0eJ702UF) to apply this theme to your telegram: https://t.me/addtheme/mvBlrPOD0eJ702UF
 
 ## Star atlas game
+### Normal Version
+![image](https://user-images.githubusercontent.com/71613402/148385376-b6a02e86-d6dc-4b13-bc60-fdb737d1006c.png)
+
+Copy and paste [this link](https://t.me/addtheme/DjAJYvVdSo5P0ZFo) to apply this theme to your telegram: https://t.me/addtheme/DjAJYvVdSo5P0ZFo
+
+### Blured Version
 ![image](https://user-images.githubusercontent.com/71613402/147890795-5344c14f-f414-4b55-8267-07ca01d0558a.png)
 
 Copy and paste [this link](https://t.me/addtheme/h0qvRPliUORSv0WG) to apply this theme to your telegram: https://t.me/addtheme/h0qvRPliUORSv0WG
 
 ## The last of Ellie
+### Normal Version
+![image](https://user-images.githubusercontent.com/71613402/148385565-49c62877-d7bd-43bd-a272-e8a1e52bd8f1.png)
+
+Copy and paste [this link](https://t.me/addtheme/QwHOYOAT02CCFwpj) to apply this theme to your telegram: https://t.me/addtheme/QwHOYOAT02CCFwpj
+
+### Blured Version
 ![image](https://user-images.githubusercontent.com/71613402/148076464-626900e6-e8b5-4b5f-82a3-05885af8a895.png)
 
 Copy and paste [this link](https://t.me/addtheme/uYjIuDJecOlbD7Gt) to apply this theme to your telegram: https://t.me/addtheme/uYjIuDJecOlbD7Gt
@@ -109,11 +139,23 @@ Copy and paste [this link](https://t.me/addtheme/uYjIuDJecOlbD7Gt) to apply this
 Copy and paste [this link](https://t.me/addtheme/m1jjJXpuV0hjKrqo) to apply this theme to your telegram: https://t.me/addtheme/m1jjJXpuV0hjKrqo
 
 ## Yellow forest
+### Normal Version
+![image](https://user-images.githubusercontent.com/71613402/148385758-ebfc9cef-f3d7-47d1-bf4a-4f58f9a286c9.png)
+
+Copy and paste [this link](https://t.me/addtheme/zUjn8oFndBD9cC55) to apply this theme to your telegram: https://t.me/addtheme/zUjn8oFndBD9cC55
+
+### Blured Version
 ![image](https://user-images.githubusercontent.com/71613402/148073784-3e818e96-6ee1-4be4-9924-c0f2967e8e85.png)
 
 Copy and paste [this link](https://t.me/addtheme/YIogUS7M9wJaaLLu) to apply this theme to your telegram: https://t.me/addtheme/YIogUS7M9wJaaLLu
 
 ## Your name 1
+### Normal Version
+![image](https://user-images.githubusercontent.com/71613402/148385972-04580e8d-54ce-4b3e-ae8a-3d466e15ad0e.png)
+
+Copy and paste [this link](https://t.me/addtheme/mawGZD5IlnuwqfEE) to apply this theme to your telegram: https://t.me/addtheme/mawGZD5IlnuwqfEE
+
+### Blured Version
 ![image](https://user-images.githubusercontent.com/71613402/147890659-c6522b4c-99ef-4896-9b24-78a7ce5a51d9.png)
 
 Copy and paste [this link](https://t.me/addtheme/p7Chaq7LnarHLNQS) to apply this theme to your telegram: https://t.me/addtheme/p7Chaq7LnarHLNQS
