@@ -20,6 +20,12 @@ Copy and paste [this link](https://t.me/addtheme/r6HDv5MEEXlO2hON) to apply this
 Copy and paste [this link](https://t.me/addtheme/pNBeYhfNgBvi80nl) to apply this theme to your telegram: https://t.me/addtheme/pNBeYhfNgBvi80nl
 
 ## Canon Lens
+### Normal Version
+![image](https://user-images.githubusercontent.com/71613402/148380211-ffda3ba1-a39c-4626-b43b-70fe04314c2c.png)
+
+Copy and paste [this link](https://t.me/addtheme/fdTOwJHr3VUqMCEF) to apply this theme to your telegram: https://t.me/addtheme/fdTOwJHr3VUqMCEF
+
+### Blured Version
 ![image](https://user-images.githubusercontent.com/71613402/148066037-4e85726b-3b20-4011-8cca-2a8a67bf2ffc.png)
 
 Copy and paste [this link](https://t.me/addtheme/Pe6hGaC2zBA3YPE7) to apply this theme to your telegram: https://t.me/addtheme/Pe6hGaC2zBA3YPE7
@@ -46,6 +52,12 @@ Copy and paste [this link](https://t.me/addtheme/HbAqmOzWUSGZ0fNV) to apply this
 Copy and paste [this link](https://t.me/addtheme/tfWiqpJ0DxTExDKB) to apply this theme to your telegram: https://t.me/addtheme/tfWiqpJ0DxTExDKB
 
 ## Harry Potter 1
+### Normal Version
+![image](https://user-images.githubusercontent.com/71613402/148384250-9ab8a69e-95e2-4622-9de0-38d13899c5a4.png)
+
+Copy and paste [this link](https://t.me/addtheme/f7Q2kBGtZRB1XzTt) to apply this theme to your telegram: https://t.me/addtheme/f7Q2kBGtZRB1XzTt
+
+### Blured Version
 ![image](https://user-images.githubusercontent.com/71613402/147886074-eb2451fd-6b16-47b2-863f-57127c65f30c.png)
 
 Copy and paste [this link](https://t.me/addtheme/VaJX1eneJZcFykI6) to apply this theme to your telegram: https://t.me/addtheme/VaJX1eneJZcFykI6
