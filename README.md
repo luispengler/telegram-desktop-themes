@@ -99,6 +99,17 @@ Copy and paste [this link](https://t.me/addtheme/Brhi4pUw1Id2FVJS) to apply this
 
 Copy and paste [this link](https://t.me/addtheme/FcfzJFZbrslWPFnH) to apply this theme to your telegram: https://t.me/addtheme/FcfzJFZbrslWPFnH
 
+## Red Blossoms
+### Normal Version
+![image](https://user-images.githubusercontent.com/71613402/148558290-13720d8f-9e94-4dcd-8d40-b7c808cca7dd.png)
+
+Copy and paste [this link](https://t.me/addtheme/ySD4YGRutpmgpFCM) to apply this theme to your telegram: https://t.me/addtheme/ySD4YGRutpmgpFCM
+
+### Blured Version
+![image](https://user-images.githubusercontent.com/71613402/148558506-93b0f1c1-0e8b-4ca1-a0da-5ca38b1f735c.png)
+
+Copy and paste [this link](https://t.me/addtheme/dy96SE8K8VfD6SRP) to apply this theme to your telegram: https://t.me/addtheme/dy96SE8K8VfD6SRP
+
 ## Spider main theme
 ### Normal Version
 ![image](https://user-images.githubusercontent.com/71613402/148384856-cd707add-7397-4ca0-83ad-7e3fbef38d08.png)
