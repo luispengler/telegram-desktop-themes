@@ -132,16 +132,16 @@ Copy and paste [this link](https://t.me/addtheme/Ht1ibAnXFxd3fyq3) to apply this
 
 Copy and paste [this link](https://t.me/addtheme/mvBlrPOD0eJ702UF) to apply this theme to your telegram: https://t.me/addtheme/mvBlrPOD0eJ702UF
 
-## Star atlas game
+## Star atlas Pearce F4
 ### Normal Version
 ![image](https://user-images.githubusercontent.com/71613402/148385376-b6a02e86-d6dc-4b13-bc60-fdb737d1006c.png)
 
-Copy and paste [this link](https://t.me/addtheme/DjAJYvVdSo5P0ZFo) to apply this theme to your telegram: https://t.me/addtheme/DjAJYvVdSo5P0ZFo
+Copy and paste [this link](https://t.me/addtheme/GFtnX20CSxeVsv7y) to apply this theme to your telegram: https://t.me/addtheme/GFtnX20CSxeVsv7y
 
 ### Blured Version
 ![image](https://user-images.githubusercontent.com/71613402/147890795-5344c14f-f414-4b55-8267-07ca01d0558a.png)
 
-Copy and paste [this link](https://t.me/addtheme/h0qvRPliUORSv0WG) to apply this theme to your telegram: https://t.me/addtheme/h0qvRPliUORSv0WG
+Copy and paste [this link](https://t.me/addtheme/chFAe8GQj8IvTn4D) to apply this theme to your telegram: https://t.me/addtheme/chFAe8GQj8IvTn4D
 
 ## The last of Ellie
 ### Normal Version
