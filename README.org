@@ -3,12 +3,11 @@
 #+SETUPFILE:  https://luispengler.github.io/site/org-html-themes/org/theme-readtheorg.setup
 #+OPTIONS: num:nil ^:{} toc:1
 
-* Telegram Desktop Themes
-A collection of my own telegram themes for telegram desktop!
++ A collection of my own telegram themes for telegram desktop!
 
-These themes were generated using a tool called [[https://github.com/agnipau/telegram-palette-gen][telegram-palette-gen]]
++ These themes were generated using a tool called [[https://github.com/agnipau/telegram-palette-gen][telegram-palette-gen]]
 
-PS: The only difference between normal version and blured version is that in the blured one the wallpaper has a blur effect.
++ PS: The only difference between normal version and blured version is that in the blured one the wallpaper has a blur effect.
 
 * Abstract Cabum!
 ** Normal Version
