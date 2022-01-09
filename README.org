@@ -1,6 +1,6 @@
 #+TITLE: Telegram Desktop Themes
 #+DESCRIPTION: Telegram Desktop Themes - 20+ themes
-#+SETUPFILE:  https://luispengler.github.io/site/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE:  https://luispengler.github.io/site/org-html-themes/org/theme-bigblow.setup
 #+OPTIONS: num:nil ^:{} toc:1
 
 + A collection of my own telegram themes for telegram desktop!
@@ -33,7 +33,7 @@ Follow [[https://t.me/addtheme/Pe6hGaC2zBA3YPE7][this link]] to apply this theme
 
 * Cyberpunk 2077 road
 ** Normal Version
-![image](https://user-images.githubusercontent.com/71613402/148387160-53e1906a-ccf7-4680-b26a-bff010e775a0.png)
+https://user-images.githubusercontent.com/71613402/148387160-53e1906a-ccf7-4680-b26a-bff010e775a0.png
 
 Follow [[https://t.me/addtheme/XajySuay8z2jSlUB][this link]] to apply this theme to your telegram.
 
