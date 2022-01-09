@@ -1,6 +1,6 @@
 #+TITLE: Telegram Desktop Themes
 #+DESCRIPTION: Telegram Desktop Themes - 20+ themes
-#+SETUPFILE:  https://luispengler.github.io/site/org-html-themes/org/theme-bigblow.setup
+#+SETUPFILE:  https://luispengler.github.io/telegram-desktop/org-html-themes/org/theme-bigblow.setup
 #+OPTIONS: num:nil ^:{} toc:1
 
 + A collection of my own telegram themes for telegram desktop!

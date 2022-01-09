@@ -1,0 +1,38 @@
+#+TITLE:     BigBlow theme
+#+AUTHOR:    Fabrice Niessen - modified by Luís Spengler
+#+EMAIL:     luispengler@protonmail.com
+#+DESCRIPTION: BigBlow theme configuration files
+#+KEYWORDS:  org-mode, export, html, theme, style, css, js, bigblow
+#+LANGUAGE:  en
+#+OPTIONS:   H:4 toc:t num:2
+
+#+PROPERTY:  header-args :padline no
+#+SETUPFILE: ~/org/theme-readtheorg.setup
+
+#+html: <a href="http://opensource.org/licenses/GPL-3.0">
+#+html:   <img src="http://img.shields.io/:license-gpl-blue.svg" alt=":license-gpl-blue.svg" />
+#+html: </a>
+
+* GPL claim
+* License
+
+Copyright (C) 2011-2021 Fabrice Niessen.
+
+Author: Fabrice Niessen \\
+Keywords: org-mode html themes
+
+This program is free software; you can redistribute it and/or modify it under
+the terms of the GNU General Public License as published by the Free Software
+Foundation, either version 3 of the License, or (at your option) any later
+version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY
+WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with
+this program.  If not, see http://www.gnu.org/licenses/.
+
+#+html: <a href="http://opensource.org/licenses/GPL-3.0">
+#+html:   <img src="http://img.shields.io/:license-gpl-blue.svg" alt=":license-gpl-blue.svg" />
+#+html: </a>
