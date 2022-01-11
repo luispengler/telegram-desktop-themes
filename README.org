@@ -12,7 +12,7 @@
 * Abstract Cabum!
 ** Normal Version
 
-#+ATTR_HTML: alt: waterwave :title Double-slit :style margin-left: auto;margin-right: auto;background-color: mintcream;display: block;width: 100%;
+#+ATTR_HTML: alt: waterwave :title Double-slit :style margin-left: -50px;margin-right: auto;display: block;width: 100%;
 https://user-images.githubusercontent.com/71613402/148379923-515c9940-4263-409c-8581-f8682c633a59.png
 
 Follow [[https://t.me/addtheme/r6HDv5MEEXlO2hON][this link]] to apply this theme to your telegram.

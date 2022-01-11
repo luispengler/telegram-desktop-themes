@@ -95,9 +95,8 @@ html, body {
 }
 
 #postamble {
-    color: #999999;
+    color: #000000;
     font-family: Arial,Helvetica,sans-serif;
-    font-size: 70%;
     height: 40px;
     margin: 0 auto;
     max-width: 810px;
@@ -108,10 +107,11 @@ html, body {
 }
 
 body {
-    color: #333333;
+    color: #242333;
     font: 13px/1.385 arial,helvetica,clean,sans-serif;
     margin: 0 .1em;
     padding: 0;
+    background: #616161;
 }
 
 b {
