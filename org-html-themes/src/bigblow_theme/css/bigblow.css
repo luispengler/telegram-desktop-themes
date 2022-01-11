@@ -611,17 +611,6 @@ span.todo .selected {
             text-decoration: underline;
         }
 
-#minitoc {
-    background-color: #FFFFDD;
-    border: 1px solid #E4E4E4;
-    color: #484848;
-    line-height: 1.2em;
-    margin: 12px;
-    padding: 4px;
-    position: fixed;
-    width: auto;
-}
-
 #minitoc a {
     display: block;
     font-size: 10px;
@@ -634,12 +623,6 @@ span.todo .selected {
 
 #minitoc:hover a {
     display: block;
-}
-
-#minitoc h2 {
-    margin: 3px 0px;
-    border: none;
-    font-size: 11px;
 }
 
 p.verse {
@@ -685,21 +668,6 @@ p.verse {
     /* display: none; /\* hide the panel if Javascript is not running *\/ */
 }
 
-#left-panel-contents {
-    background-color: #EFEFEF;
-    border-right: 1px dotted #ADADAD;
-    display: none;
-    height: 100%;
-    left: 0px;
-    position: fixed;
-    text-align: left;
-    top: 0;
-    width: 199px;
-    z-index: 200;
-    padding-top: 7px;
-    padding-left: 7px;
-}
-
 #left-panel-button {
     transform: rotate(90deg);
     background-color: #EFEFEF;
@@ -716,21 +684,6 @@ p.verse {
     position: fixed;
     z-index: 200;
     /* display: none; /\* hide the panel if Javascript is not running *\/ */
-}
-
-#right-panel-contents {
-    background-color: #EFEFEF;
-    border-left: 1px dotted #ADADAD;
-    display: none;
-    height: 100%;
-    right: 0px;
-    position: fixed;
-    text-align: left;
-    top: 0;
-    width: 199px;
-    z-index: 200;
-    padding-top: 7px;
-    padding-left: 7px;
 }
 
 .org-src-container {
