@@ -668,18 +668,6 @@ p.verse {
     /* display: none; /\* hide the panel if Javascript is not running *\/ */
 }
 
-#left-panel-button {
-    transform: rotate(90deg);
-    background-color: #EFEFEF;
-    border: 1px dotted #ADADAD;
-    border-bottom-width: 0px;
-    left: -23px;
-    position: fixed;
-    top: 50%;
-    z-index: 200;
-    padding: 2px 5px 5px 5px;
-}
-
 #right-panel-wrapper {
     position: fixed;
     z-index: 200;
