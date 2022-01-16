@@ -84,6 +84,21 @@ https://user-images.githubusercontent.com/71613402/148109309-f9cb2cd7-8452-42d7-
 
 Follow [[https://t.me/addtheme/tfWiqpJ0DxTExDKB][this link]] to apply this theme to your telegram.
 
+* Girl looking away
+** Normal Version
+
+#+ATTR_HTML: alt: waterwave :title Double-slit :style margin-left: -50px;margin-right: auto;display: block;width: 100%;
+https://luispengler.github.io/telegram-desktop-themes/tdesktop-palette/girl-looking-away/ss.png
+
+Follow [[https://t.me/addtheme/Lbj6S6rhucmy8n46][this link]] to apply this theme to your telegram.
+
+** Blured Version
+
+#+ATTR_HTML: alt: waterwave :title Double-slit :style margin-left: -50px;margin-right: auto;display: block;width: 100%;
+https://luispengler.github.io/telegram-desktop-themes/tdesktop-palette/girl-looking-away/ssb.png
+
+Follow [[https://t.me/addtheme/eggLR1j6VesIbeQB][this link]] to apply this theme to your telegram.
+
 * Harry Potter 1
 ** Normal Version
 
