@@ -99,6 +99,21 @@ https://luispengler.github.io/telegram-desktop-themes/tdesktop-palette/girl-look
 
 Follow [[https://t.me/addtheme/eggLR1j6VesIbeQB][this link]] to apply this theme to your telegram.
 
+* Green Arrow and The Flash
+** Normal Version
+
+#+ATTR_HTML: alt: waterwave :title Double-slit :style margin-left: -50px;margin-right: auto;display: block;width: 100%;
+https://luispengler.github.io/telegram-desktop-themes/tdesktop-palette/arrow-flash/ss.png
+
+Follow [[https://t.me/addtheme/C4ERxzn2caDokGgG][this link]] to apply this theme to your telegram.
+
+** Blured Version
+
+#+ATTR_HTML: alt: waterwave :title Double-slit :style margin-left: -50px;margin-right: auto;display: block;width: 100%;
+https://luispengler.github.io/telegram-desktop-themes/tdesktop-palette/arrow-flash/ssb.png
+
+Follow [[https://t.me/addtheme/spIhtVn9f6YvMxnv][this link]] to apply this theme to your telegram.
+
 * Harry Potter 1
 ** Normal Version
 
