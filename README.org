@@ -39,6 +39,21 @@ https://user-images.githubusercontent.com/71613402/148066037-4e85726b-3b20-4011-
 
 Follow [[https://t.me/addtheme/Pe6hGaC2zBA3YPE7][this link]] to apply this theme to your telegram.
 
+* Crisis X arrowverse 1
+** Normal Version
+
+#+ATTR_HTML: alt: waterwave :title Double-slit :style margin-left: -50px;margin-right: auto;display: block;width: 100%;
+https://luispengler.github.io/telegram-desktop-themes/tdesktop-palette/crisis-x-arrowverse1/ss.png
+
+Follow [[https://t.me/addtheme/hDWKkl5B0eEW9DPV][this link]] to apply this theme to your telegram.
+
+** Blured Version
+
+#+ATTR_HTML: alt: waterwave :title Double-slit :style margin-left: -50px;margin-right: auto;display: block;width: 100%;
+https://luispengler.github.io/telegram-desktop-themes/tdesktop-palette/crisis-x-arrowverse1/ssb.png
+
+Follow [[https://t.me/addtheme/VXbyUIVBj8tmtmhY][this link]] to apply this theme to your telegram.
+
 * Cyberpunk 2077 road
 ** Normal Version
 
