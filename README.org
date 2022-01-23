@@ -54,6 +54,21 @@ https://luispengler.github.io/telegram-desktop-themes/tdesktop-palette/crisis-x-
 
 Follow [[https://t.me/addtheme/VXbyUIVBj8tmtmhY][this link]] to apply this theme to your telegram.
 
+* Crisis X arrowverse 2
+** Normal Version
+
+#+ATTR_HTML: alt: waterwave :title Double-slit :style margin-left: -50px;margin-right: auto;display: block;width: 100%;
+https://luispengler.github.io/telegram-desktop-themes/tdesktop-palette/crisis-x-arrowverse2/ss.png
+
+Follow [[https://t.me/addtheme/DaoybUf0I25CZvzQ][this link]] to apply this theme to your telegram.
+
+** Blured Version
+
+#+ATTR_HTML: alt: waterwave :title Double-slit :style margin-left: -50px;margin-right: auto;display: block;width: 100%;
+https://luispengler.github.io/telegram-desktop-themes/tdesktop-palette/crisis-x-arrowverse2/ssb.png
+
+Follow [[https://t.me/addtheme/R6XHbuKMh8z9DaLV][this link]] to apply this theme to your telegram.
+
 * Cyberpunk 2077 road
 ** Normal Version
 
