@@ -69,6 +69,21 @@ https://user-images.githubusercontent.com/71613402/148387352-870e26f9-088b-4c2a-
 
 Follow [[https://t.me/addtheme/AuuQvFbMFOyHIklE][this link]] to apply this theme to your telegram.
 
+* Firewatch 1
+** Normal Version
+
+#+ATTR_HTML: alt: waterwave :title Double-slit :style margin-left: -50px;margin-right: auto;display: block;width: 100%;
+https://luispengler.github.io/telegram-desktop-themes/tdesktop-palette/firewatch1/ss.png
+
+Follow [[https://t.me/addtheme/WyU4Vd7gLOm5CFSZ][this link]] to apply this theme to your telegram.
+
+** Blured Version
+
+#+ATTR_HTML: alt: waterwave :title Double-slit :style margin-left: -50px;margin-right: auto;display: block;width: 100%;
+https://luispengler.github.io/telegram-desktop-themes/tdesktop-palette/firewatch1/ssb.png
+
+Follow [[https://t.me/addtheme/HQ3DMFU3cgKHBwE1][this link]] to apply this theme to your telegram.
+
 * Gears keep movin'
 ** Normal Version
 
