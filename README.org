@@ -189,6 +189,21 @@ https://user-images.githubusercontent.com/71613402/148233336-f2ab86e6-48f3-407d-
 
 Follow [[https://t.me/addtheme/LRO0RjFJTwrEaJb7][this link]] to apply this theme to your telegram.
 
+* Marvel
+** Normal Version
+
+#+ATTR_HTML: alt: waterwave :title Double-slit :style margin-left: -50px;margin-right: auto;display: block;width: 100%;
+https://luispengler.github.io/telegram-desktop-themes/tdesktop-palette/marvel/ss.png
+
+Follow [[https://t.me/addtheme/W8CGzLor506P4vXL][this link]] to apply this theme to your telegram.
+
+** Blured Version
+
+#+ATTR_HTML: alt: waterwave :title Double-slit :style margin-left: -50px;margin-right: auto;display: block;width: 100%;
+https://luispengler.github.io/telegram-desktop-themes/tdesktop-palette/marvel/ssb.png
+
+Follow [[https://t.me/addtheme/t9LZTY7mxkfuGaco][this link]] to apply this theme to your telegram.
+
 * Purple Saturn
 ** Normal Version
 
